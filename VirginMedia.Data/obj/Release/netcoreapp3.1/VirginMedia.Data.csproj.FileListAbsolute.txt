@@ -1,0 +1,9 @@
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Data\bin\Release\netcoreapp3.1\VirginMedia.Data.deps.json
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Data\bin\Release\netcoreapp3.1\VirginMedia.Data.dll
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Data\bin\Release\netcoreapp3.1\VirginMedia.Data.pdb
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Data\obj\Release\netcoreapp3.1\VirginMedia.Data.csprojAssemblyReference.cache
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Data\obj\Release\netcoreapp3.1\VirginMedia.Data.AssemblyInfoInputs.cache
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Data\obj\Release\netcoreapp3.1\VirginMedia.Data.AssemblyInfo.cs
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Data\obj\Release\netcoreapp3.1\VirginMedia.Data.csproj.CoreCompileInputs.cache
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Data\obj\Release\netcoreapp3.1\VirginMedia.Data.dll
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Data\obj\Release\netcoreapp3.1\VirginMedia.Data.pdb

@@ -1,0 +1,12 @@
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Services\bin\Release\netcoreapp3.1\VirginMedia.Services.deps.json
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Services\bin\Release\netcoreapp3.1\VirginMedia.Services.dll
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Services\bin\Release\netcoreapp3.1\VirginMedia.Services.pdb
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Services\bin\Release\netcoreapp3.1\VirginMedia.Data.dll
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Services\bin\Release\netcoreapp3.1\VirginMedia.Data.pdb
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Services\obj\Release\netcoreapp3.1\VirginMedia.Services.csprojAssemblyReference.cache
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Services\obj\Release\netcoreapp3.1\VirginMedia.Services.AssemblyInfoInputs.cache
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Services\obj\Release\netcoreapp3.1\VirginMedia.Services.AssemblyInfo.cs
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Services\obj\Release\netcoreapp3.1\VirginMedia.Services.csproj.CoreCompileInputs.cache
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Services\obj\Release\netcoreapp3.1\VirginMedia.Services.csproj.CopyComplete
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Services\obj\Release\netcoreapp3.1\VirginMedia.Services.dll
+D:\Preeti\VirginMedia.Scenario\VirginMedia.Services\obj\Release\netcoreapp3.1\VirginMedia.Services.pdb

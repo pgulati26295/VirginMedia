@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<VirginMedia.Services.Models.UserScenarios>
+
+<h4>Summary</h4>
+<br />
+<br />
+
+
+@foreach (var user in Model)
+{
+    <h6> @user.Forename  @user.Surname -- @user.UserID </h6>
+
+    <br />
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Scenario Name</th>
+                <th scope="col">Sample date</th>
+                <th scope="col">Creation Date</th>
+                <th scope="col">Num Months </th>
+        </thead>
+        <tbody>
+            @foreach (var scenario in user.Scenarios)
+            {
+
+                <tr>
+                    <td>@scenario.Name</td>
+                    <td>@scenario.SampleDate</td>
+                    <td>@scenario.CreationDate</td>
+                    <td>@scenario.NumMonths</td>
+
+                </tr>
+
+            }
+        </tbody>
+    </table>
+
+    <br />
+    <br />
+
+}
+
+
+
